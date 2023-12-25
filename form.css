@@ -1,0 +1,106 @@
+body{
+    width: 500px;
+    position: relative;
+    left: 400px;
+    line-height: 25px;
+}
+
+.b{
+    border:solid blue;
+    input[type=text] 
+        {
+        width: 36%;
+        position: relative;
+        left: 114px; 
+        }
+     input[type=texte] 
+            {
+            width: 36%;
+            position: relative;
+            left: 132px;
+            }
+        input[type=nember] 
+            {
+            width: 36%;
+            position: relative;
+            left: 51px; 
+            }
+            input[type=date] 
+                {
+                width: 30%;
+                position: relative;
+                left: 42px; 
+                }
+                input[type=password] 
+                    {
+                    width: 36%;
+                    position: relative;
+                    left: 74px; 
+                    }
+                    input[type=Reset] 
+                        {
+                        width: 17%;
+                        position: relative;
+                        left: 200px; 
+                        }
+                        input[type=submit] 
+                            {
+                            width: 11%;
+                            position: relative;
+                            left: 60px; 
+                            }
+
+} 
+.c{
+    text-align: center;
+    border: solid blue;
+    input[type=text] 
+        {
+        width: 70%;
+        padding:25px 20px;
+        margin: 8px 0;
+        box-sizing: border-box;
+        }
+}
+
+.a{
+    border: solid blue;
+    input[type=texte]
+        {
+        width: 35%;
+        position: relative;
+        left: 130px; 
+        }
+        input[type=text] 
+            {
+            width: 35%;
+            position: relative;
+            left: 112px; 
+            }
+            input[type=number] 
+                {
+                width: 35%;
+                position: relative;
+                left: 64px; 
+                }
+                    input[type=email]
+                        {
+                        width: 35%;
+                        position: relative;
+                        left: 120px; 
+                        }
+}
+.m{
+    text-align: center;
+}
+.g{
+    text-align: center;
+    border: solid blue;
+    input[type=text] 
+    {
+    width: 70%;
+    padding:25px 20px;
+    margin: 8px 0px;
+    box-sizing: border-box;
+    }
+}
